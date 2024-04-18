@@ -1,0 +1,123 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Vaccine.Web
+build_property.RootNamespace = Vaccine.Web
+build_property.ProjectDir = C:\Users\vladi\Documents\Integrirani Sistemi\Kolokvium\Vaccine\Vaccine\Web\Vaccine.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\vladi\Documents\Integrirani Sistemi\Kolokvium\Vaccine\Vaccine\Web\Vaccine.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/Patients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/Patients/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/Patients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/Patients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/VaccinationCenters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjY2luYXRpb25DZW50ZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/VaccinationCenters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjY2luYXRpb25DZW50ZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/VaccinationCenters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjY2luYXRpb25DZW50ZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/VaccinationCenters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjY2luYXRpb25DZW50ZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/VaccinationCenters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjY2luYXRpb25DZW50ZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/Vaccines/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjY2luZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/Vaccines/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjY2luZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/Vaccines/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjY2luZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/Vaccines/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjY2luZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/Vaccines/ErrorView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjY2luZXNcRXJyb3JWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/Vaccines/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjY2luZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/vladi/Documents/Integrirani Sistemi/Kolokvium/Vaccine/Vaccine/Web/Vaccine.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-x2xvip4okr
